@@ -1,0 +1,23 @@
+{
+  "name": "ProPresenter-vMix",
+  "version": "1.0.0",
+  "description": "Uses the ProPresenter Stage Display network API to feed current slide text into a vMix text input for lower thirds.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackenly/ProPresenter-vMix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mackenly/ProPresenter-vMix/issues"
+  },
+  "homepage": "https://github.com/mackenly/ProPresenter-vMix#readme",
+  "devDependencies": {
+    "electron": "9.1.0"
+  }
+}
